@@ -2,10 +2,10 @@
 
 A responsive **Spotify Clone** built using **HTML** and **CSS**. This project replicates the basic UI of Spotify, showcasing key design elements like navigation, playlists, and a music player.
 
-![Screenshot](assets/screenshot1.png)
-![Screenshot](assets/screenshot2.png)
-![Screenshot](assets/screenshot3.png)
-![Screenshot](assets/screenshot4.png)
+![Screenshot](assets/Screenshot1.png)
+![Screenshot](assets/Screenshot2.png)
+![Screenshot](assets/Screenshot3.png)
+![Screenshot](assets/Screenshot4.png)
 
 ## 🚀 Features
 
